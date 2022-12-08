@@ -4,4 +4,4 @@ print(my_str.startswith('pyth'))
 print(my_str.endswith('hon'))
 print(my_str.islower())
 print(my_str.isupper())
-print(my_str.istitle())
+print(my_str.istitle()) #its true because its a title format with upper case at the 
