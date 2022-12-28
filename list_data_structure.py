@@ -22,3 +22,4 @@ print(my_list1)
 print(my_list1[1:]) # will print from index 1 to last
 
 
+
